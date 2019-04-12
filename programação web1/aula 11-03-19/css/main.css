@@ -1,0 +1,640 @@
+.cor_de_fundo{
+	background-color: #ff0000;
+}
+	.quadrado{
+		position: absolute;
+		top: 100px;
+		left: 450px;
+		right: 600px;
+		bottom: 556px;
+		width: 100px;
+		height: 100px;
+		background-color: #000000;
+	}
+	.quadrado2{
+		position: absolute;
+		top: 100px;
+		bottom: 400px;
+		right: 400px;
+		left: 550px;
+		width: 100px;
+		height: 100px;
+		background-color: #ffffff;
+	}
+	.quadrado3{
+		position: absolute;
+		top: 100px;
+		left: 650px;
+		right: 600px;
+		bottom: 556px;
+		width: 100px;
+		height: 100px;
+		background-color: #000000;
+	}
+	.quadrado4{
+		position: absolute;
+		top: 100px;
+		bottom: 400px;
+		right: 400px;
+		left: 750px;
+		width: 100px;
+		height: 100px;
+		background-color: #ffffff;
+	}
+	.quadrado5{
+		position: absolute;
+		top: 100px;
+		left: 850px;
+		right: 600px;
+		bottom: 556px;
+		width: 100px;
+		height: 100px;
+		background-color: #000000;
+	}
+	.quadrado6{
+		position: absolute;
+		top: 100px;
+		bottom: 400px;
+		right: 400px;
+		left: 950px;
+		width: 100px;
+		height: 100px;
+		background-color: #ffffff;
+	}.quadrado7{
+		position: absolute;
+		top: 100px;
+		left: 1050px;
+		right: 600px;
+		bottom: 556px;
+		width: 100px;
+		height: 100px;
+		background-color: #000000;
+	}
+	.quadrado8{
+		position: absolute;
+		top: 100px;
+		bottom: 400px;
+		right: 400px;
+		left: 1150px;
+		width: 100px;
+		height: 100px;
+		background-color: #ffffff;
+	}
+.quadrado9{
+	position: absolute;
+	top: 200px;
+	left: 450px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado10{
+	position: absolute;
+	top: 200px;
+	bottom: 400px;
+	right: 400px;
+	left: 550px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado11{
+	position: absolute;
+	top: 200px;
+	left: 650px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado12{
+	position: absolute;
+	top: 200px;
+	bottom: 400px;
+	right: 400px;
+	left: 750px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado13{
+	position: absolute;
+	top: 200px;
+	left: 850px;
+	right: 400px;
+	bottom: 400px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado14{
+	position: absolute;
+	top: 200px;
+	bottom: 400px;
+	right: 400px;
+	left: 950px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado15{
+	position: absolute;
+	top: 200px;
+	left: 1050px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado16{
+	position: absolute;
+	top: 200px;
+	bottom: 1150px;
+	right: 400px;
+	left: 1150px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado17{
+	position: absolute;
+	top: 300px;
+	left: 450px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado18{
+	position: absolute;
+	top: 300px;
+	bottom: 550px;
+	right: 400px;
+	left: 550px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado19{
+	position: absolute;
+	top: 300px;
+	left: 650px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado20{
+	position: absolute;
+	top: 300px;
+	bottom: 400px;
+	right: 400px;
+	left: 750px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado21{
+	position: absolute;
+	top: 300px;
+	left: 850px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado22{
+	position: absolute;
+	top: 300px;
+	bottom: 400px;
+	right: 400px;
+	left: 950px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado23{
+	position: absolute;
+	top: 300px;
+	left: 1050px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado24{
+	position: absolute;
+	top: 300px;
+	bottom: 400px;
+	right: 400px;
+	left: 1150px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado25{
+	position: absolute;
+	top: 400px;
+	bottom: 550px;
+	right: 400px;
+	left: 450px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado26{
+	position: absolute;
+	top: 400px;
+	left: 550px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado27{
+	position: absolute;
+	top: 400px;
+	bottom: 400px;
+	right: 400px;
+	left: 650px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado28{
+	position: absolute;
+	top: 400px;
+	left: 750px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado29{
+	position: absolute;
+	top: 400px;
+	bottom: 400px;
+	right: 400px;
+	left: 850px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado30{
+	position: absolute;
+	top: 400px;
+	left: 950px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado31{
+	position: absolute;
+	top: 400px;
+	bottom: 400px;
+	right: 400px;
+	left: 1050px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado32{
+	position: absolute;
+	top: 400px;
+	bottom: 400px;
+	right: 400px;
+	left: 1150px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado33{
+	position: absolute;
+	top: 500px;
+	left: 450px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado34{
+	position: absolute;
+	top: 500px;
+	bottom: 400px;
+	right: 400px;
+	left: 550px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado35{
+	position: absolute;
+	top: 500px;
+	left: 650px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado36{
+	position: absolute;
+	top: 500px;
+	bottom: 400px;
+	right: 400px;
+	left: 750px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado37{
+	position: absolute;
+	top: 500px;
+	left: 850px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado38{
+	position: absolute;
+	top: 500px;
+	bottom: 400px;
+	right: 400px;
+	left: 950px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}.quadrado39{
+	position: absolute;
+	top: 500px;
+	left: 1050px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado40{
+	position: absolute;
+	top: 500px;
+	bottom: 400px;
+	right: 400px;
+	left: 1150px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado41{
+	position: absolute;
+	top: 600px;
+	bottom: 550px;
+	right: 400px;
+	left: 450px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado42{
+	position: absolute;
+	top: 600px;
+	left: 550px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado43{
+	position: absolute;
+	top: 600px;
+	bottom: 400px;
+	right: 400px;
+	left: 650px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado44{
+	position: absolute;
+	top: 600px;
+	left: 750px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado45{
+	position: absolute;
+	top: 600px;
+	bottom: 400px;
+	right: 400px;
+	left: 850px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado46{
+	position: absolute;
+	top: 600px;
+	left: 950px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado47{
+	position: absolute;
+	top: 600px;
+	bottom: 400px;
+	right: 400px;
+	left: 1050px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado48{
+	position: absolute;
+	top: 600px;
+	bottom: 556px;
+	right: 600px;
+	left: 1150px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado49{
+	position: absolute;
+	top: 700px;
+	left: 450px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado50{
+	position: absolute;
+	top: 700px;
+	bottom: 400px;
+	right: 400px;
+	left: 550px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado51{
+	position: absolute;
+	top: 700px;
+	left: 650px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado52{
+	position: absolute;
+	top: 700px;
+	bottom: 400px;
+	right: 400px;
+	left: 750px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado53{
+	position: absolute;
+	top: 700px;
+	left: 850px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado54{
+	position: absolute;
+	top: 700px;
+	bottom: 400px;
+	right: 400px;
+	left: 950px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}.quadrado55{
+	position: absolute;
+	top: 700px;
+	left: 1050px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado56{
+	position: absolute;
+	top: 700px;
+	bottom: 400px;
+	right: 400px;
+	left: 1150px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado57{
+	position: absolute;
+	top: 800px;
+	bottom: 550px;
+	right: 400px;
+	left: 450px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado58{
+	position: absolute;
+	top: 800px;
+	left: 550px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado59{
+	position: absolute;
+	top: 800px;
+	bottom: 400px;
+	right: 400px;
+	left: 650px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado60{
+	position: absolute;
+	top: 800px;
+	left: 750px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado61{
+	position: absolute;
+	top: 800px;
+	bottom: 400px;
+	right: 400px;
+	left: 850px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado62{
+	position: absolute;
+	top: 800px;
+	left: 950px;
+	right: 600px;
+	bottom: 556px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}
+.quadrado63{
+	position: absolute;
+	top: 800px;
+	bottom: 400px;
+	right: 400px;
+	left: 1050px;
+	width: 100px;
+	height: 100px;
+	background-color: #ffffff;
+}
+.quadrado64{
+	position: absolute;
+	top: 800px;
+	bottom: 400px;
+	right: 400px;
+	left: 1150px;
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+}

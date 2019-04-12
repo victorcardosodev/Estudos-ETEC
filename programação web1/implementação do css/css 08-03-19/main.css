@@ -1,0 +1,45 @@
+.cor_de_fundo{
+	background-color: #000000;
+}
+.cor_de_texto{
+	color: #ffffff;
+}
+.objeto{
+	width: 200px;
+	height: 200px;
+	background-color: #0000ff;
+}
+.cabine{
+	position: absolute;
+	top: 100px;
+	left: 600px;
+	width: 300px;
+	height: 300px;
+	background-color: #0000ff;
+}
+.centro{
+	position: absolute;
+	top: 250px;
+	left: 400px;
+	width: 900px;
+	height: 200px;
+	background-color: #0000ff
+}
+.rodadianteira{
+	position: absolute;
+	top: 375px;
+	left: 500px;
+	width: 200px;
+	height: 200px;
+	background-color: #ff0000;
+	border-radius: 100%;
+}
+.rodatraseira{
+	position: absolute;
+	top: 375px;
+	left: 1000px;
+	width: 200px;
+	height: 200px;
+	background-color: #ff0000;
+	border-radius: 100%;
+}

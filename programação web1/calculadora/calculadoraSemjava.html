@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Javascript</title>
+		<script>
+			function calc(n){
+				if( document.getElementById("resultado").value != ""){
+					document.getElementById("resultado").value = parseFloat(document.getElementById("resultado").value) + n;
+				}else{
+					document.getElementById("resultado").value = n;
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<center>
+		<table style="width: 10%" border="30">	
+			<border>
+				<tr>
+				<input type="text" name="resultado" id="resultado"><br><BR>
+				</tr>
+				<tr>
+					<th><input type="button" name="7" value="7" onclick="calc(7)"></th>
+					<th><input type="button" name="8" value="8" onclick="calc(8)"></th>
+					<th><input type="button" name="9" value="9" onclick="calc(9)"></th>
+				</tr><br><br>
+				<Tr>
+					<th><input type="button" name="4" value="4" onclick="calc(4)"></th>
+					<th><input type="button" name="5" value="5" onclick="calc(5)"></th>
+					<th><input type="button" name="6" value="6" onclick="calc(6)"></th>
+				</tr><br><br>
+					<th><input type="button" name="1" value="1" onclick="calc(1)"></th>
+					<th><input type="button" name="2" value="2" onclick="calc(2)"></th>
+					<th><input type="button" name="3" value="3" onclick="calc(3)"></th>
+				<tr><br><br>
+					<th><input type="button" name="0" value="0" onclick="calc(0)"></th>
+					<th><input type="button" name="," value="," onclick="calc(,)"></th>
+					<th><input type="button" name="+" value="+" onclick="calc(+)"></th>
+				</tr>
+			</border>
+		</center>
+	</body>
+</html>
